@@ -1,0 +1,52 @@
+{
+    "nrf-connect.toolchain.path": "${nrf-connect.toolchain:2.3.0}",
+    "nrf-connect.topdir": "${nrf-connect.sdk:2.3.0}",
+    "nrf-connect.applications": [
+        "${workspaceFolder}\\lsm6dsl",
+        "${workspaceFolder}\\test_calculations"
+    ],
+    "cmake.sourceDirectory": "C:/Users/aleks/Desktop/IJS/safestep-c-code/nrf_connect/lsm6dsl",
+    "nrf-connect.boardRoots": [
+        "\\Users\\dis.DESKTOP-VQQL5UB\\Desktop\\safestep-c-code\\nrf_connect"
+    ],
+    "files.associations": {
+        "accelerometer_handler.h": "c",
+        "sensor.h": "c",
+        "util.h": "c",
+        "log.h": "c",
+        "log_core.h": "c",
+        "log_instance.h": "c",
+        "string.h": "c",
+        "i2c.h": "c",
+        "nrfx_i2s.h": "c",
+        "lsm6dsl_custom.h": "c",
+        "sensor_api.h": "c",
+        "lsm6dsl_custom_api.h": "c",
+        "byteorder.h": "c",
+        "stdio.h": "c",
+        "kernel.h": "c",
+        "lsm6dsl_reg.h": "c",
+        "ratio": "c",
+        "array": "c",
+        "functional": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "stdlib.h": "c",
+        "gpio.h": "c",
+        "remote.h": "c",
+        "zephyr.h": "c",
+        "uuid.h": "c",
+        "bluetooth.h": "c",
+        "gatt.h": "c",
+        "hci.h": "c",
+        "float.h": "c",
+        "features.h": "c",
+        "math.h": "c",
+        "system_error": "c",
+        "mahalanobis_calculation.h": "c",
+        "arm_math.h": "c",
+        "y_data_st_2.h": "c",
+        "reboot.h": "c"
+    }
+}

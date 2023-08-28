@@ -1,0 +1,16 @@
+The data structure:
+
+Subjects:
+	1:
+		weights:
+			s_c_l_e_r:
+				smartphone.csv
+				empatica.csv
+				caretronic.csv
+			s_c_r_e_l:
+				...
+		weights_and_glasses:
+			...
+		metadata.json
+	2:
+	...
